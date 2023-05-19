@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        //run();
+        run();
     }
 
     static int[] set(int[] arr) {//creating set (hashset) by getting an array and deleting duplicates if there
